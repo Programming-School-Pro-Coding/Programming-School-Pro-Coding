@@ -3,7 +3,7 @@
 
 # Hi, I'm [Mohamed Ehab](https://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![Github](https://img.shields.io/github/followers/salimcodes?label=Follow&style=social)](https://github.com/salimcodes)
+[![Github](https://img.shields.io/github/followers/Programing-School?label=Follow&style=social)](https://github.com/Programing-School)
 
 
 <table>
