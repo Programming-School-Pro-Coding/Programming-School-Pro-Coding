@@ -1,3 +1,6 @@
+![Purple Welcome Canvas Banner](https://user-images.githubusercontent.com/96921717/152648473-9799d284-7e21-49ab-a07e-45d35bdc07fb.png)
+
+
 # Hi, I'm [Mohamed Ehab](https://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <table>
@@ -21,3 +24,7 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Programing-School&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Programing-School" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Programing-School&theme=highcontrast&hide_border=true" alt="Programing-School" />
 </p>
+
+# Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<a href="https://twitter.com/Program39300266"><img src="http://i.imgur.com/tXSoThF.png" /></a>
+<a href="https://twitter.com/Program39300266"><img src="http://i.imgur.com/tXSoThF.png" /></a>
