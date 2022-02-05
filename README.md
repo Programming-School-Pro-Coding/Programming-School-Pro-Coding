@@ -24,7 +24,6 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Programing-School&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="Programing-School" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Programing-School&theme=highcontrast&hide_border=true" alt="Programing-School" />
 </p>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=programing_school)
 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <a href="https://dev.to/programingschool">![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)</a>
