@@ -5,9 +5,6 @@
 
 [![Github](https://img.shields.io/github/followers/salimcodes?label=Follow&style=social)](https://github.com/salimcodes)
 
-![Salim's github stats](https://github-readme-stats.vercel.app/api?username=Programing-School)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Programing-School&theme=vue)
 
 <table>
 <tr>
