@@ -31,5 +31,6 @@
 </p>
 
 # Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v6/icons/medium.svg" />
+
+# Languages and Tools ⚙ 
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/vscode.svg" />
