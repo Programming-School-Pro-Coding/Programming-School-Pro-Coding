@@ -1,4 +1,5 @@
 <!-- ![Purple Welcome Canvas Banner](https://user-images.githubusercontent.com/96921717/152648473-9799d284-7e21-49ab-a07e-45d35bdc07fb.png) -->
+<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 <h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
 <h3 align="center">A passionate Web developer</h3>
