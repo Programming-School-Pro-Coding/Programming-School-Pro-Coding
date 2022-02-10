@@ -1,8 +1,9 @@
-![Purple Welcome Canvas Banner](https://user-images.githubusercontent.com/96921717/152648473-9799d284-7e21-49ab-a07e-45d35bdc07fb.png)
-
+<!-- ![Purple Welcome Canvas Banner](https://user-images.githubusercontent.com/96921717/152648473-9799d284-7e21-49ab-a07e-45d35bdc07fb.png) -->
 
 <h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
 <h3 align="center">A passionate Web developer</h3>
+
+<img src="https://cdn.dribbble.com/users/44515/screenshots/3223431/hoc-dribbble-svg.gif" alt="Coding" align="right" width="400" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programing-school&label=Profile%20views&color=0e75b6&style=flat" alt="programing-school" /> </p>
 
