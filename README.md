@@ -5,6 +5,8 @@
 
 [![Github](https://img.shields.io/github/followers/Programing-School?label=Follow&style=social)](https://github.com/Programing-School)
 
+![Programing-School's GitHub stats](https://github-readme-stats.vercel.app/api?username=Programing-School&show_icons=true&theme=radical)
+
 
 <table>
 <tr>
