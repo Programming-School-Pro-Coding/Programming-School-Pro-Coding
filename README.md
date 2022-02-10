@@ -35,7 +35,6 @@
 <a href="https://instagram.com/mohamedehab2463" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamedehab2463" height="30" width="40" /></a>
 <a href="https://hashnode.com/@programing-school" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@programing-school" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/programming-school" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming-school" height="30" width="40" /></a>
-<a href="https://discord.gg/8104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="8104" height="30" width="40" /></a>
 <a href="/https://programing-school.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://programing-school.hashnode.dev/rss.xml" height="30" width="40" /></a>
 </p>
 
