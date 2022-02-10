@@ -44,7 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=programing-school&show_icons=true&locale=en&layout=compact" alt="programing-school" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programing-school&show_icons=true&locale=en" alt="programing-school" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=programing-school&show_icons=true&locale=en&theme=radial" alt="programing-school" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=programing-school&" alt="programing-school" /></p>
 
