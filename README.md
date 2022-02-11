@@ -1,6 +1,6 @@
 <!-- ![Purple Welcome Canvas Banner](https://user-images.githubusercontent.com/96921717/152648473-9799d284-7e21-49ab-a07e-45d35bdc07fb.png) -->
 <!-- <img src="Blue and Yellow Geometric Businessman Facebook Cover.gif" alt="banner that says Sarah hart Landolt - software developer, artist, designer"> -->
-<img src="standard (1).gif" align="right" />
+<img src="standard (1).gif" align="center" width="400" />
 <img src="standard.gif" align="right" width="400">
 
 <h1 align="center">Hi 👋, I'm Mohamed Ehab</h1>
