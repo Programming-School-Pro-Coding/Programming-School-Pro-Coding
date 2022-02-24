@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programing-school&label=Profile%20views&color=0e75b6&style=flat" alt="programing-school" /> </p>
 
-<p align="left"> <a href="https://twitter.com/program39300266" target="blank"><img src="https://img.shields.io/twitter/follow/program39300266?logo=twitter&style=for-the-badge" alt="program39300266" /></a> </p>
+<p align="left"> <a href="https://twitter.com/program39300266" target="blank"><img src="https://img.shields.io/twitter/follow/Programing_Pro?logo=twitter&style=for-the-badge" alt="program39300266" /></a> </p>
 
 - 🌱 I’m currently learning **Next JS**
 
