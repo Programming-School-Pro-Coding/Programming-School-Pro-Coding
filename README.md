@@ -1,18 +1,15 @@
 <!-- ![Purple Welcome Canvas Banner](https://user-images.githubusercontent.com/96921717/152648473-9799d284-7e21-49ab-a07e-45d35bdc07fb.png) -->
 <!-- <img src="Blue and Yellow Geometric Businessman Facebook Cover.gif"> -->
-<img src="standard.gif" align="right" width="400">
-<!-- <img src="standard (2).gif" align="center" width="1000"> -->
-<img src="standard (1).gif" align="right" width="400"/>
-
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!-- <img src="standard.gif" align="right" width="400"> -->
+<img src="standard (2).gif" align="center" width="1000">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
+<img src="standard (1).gif" align="right" width="400"/>
+
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Popular JavaScript Frameworks like React.**
 
@@ -75,7 +72,5 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://mohamed-ehab-portfolio.vercel.app">
-    <img src="https://komarev.com/ghpvc/?username=Programing-School">
-</a>
+![Twitter Follow](https://img.shields.io/twitter/follow/Programing_Pro?label=Follow%20Me&style=social)
 <a href="https://github.com/Programing-School?tab=followers"><img src="https://img.shields.io/github/followers/Programing-School?label=Followers&style=social" alt="GitHub Badge"></a>
