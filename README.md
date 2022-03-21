@@ -72,5 +72,5 @@
 </p>
 
 ## ❤ Views and Followers
-![Twitter Follow](https://img.shields.io/twitter/follow/Programing_Pro?label=Follow%20Me&style=social)
+<a href="https://twitter.com/Programing_Pro">![Twitter Follow](https://img.shields.io/twitter/follow/Programing_Pro?label=Follow%20Me&style=social)</a>
 <a href="https://github.com/Programing-School?tab=followers"><img src="https://img.shields.io/github/followers/Programing-School?label=Followers&style=social" alt="GitHub Badge"></a>
