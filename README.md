@@ -6,7 +6,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-<img src="standard (1).gif" align="right" width="400"/>
+<!-- <img src="standard (1).gif" align="right" width="400"/> -->
+<a href="https://app.daily.dev/Mohamed_Ehab"><img src="https://api.daily.dev/devcards/ed49ae7194bc40a298676373c974b702.png?r=10e" width="400" alt="Programming-School's Dev Card" align="right" /></a>
 
 
 ## 🙋‍♂️ About Me
