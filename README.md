@@ -7,7 +7,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
 <!-- <img src="standard (1).gif" align="right" width="400"/> -->
-<a href="https://app.daily.dev/Mohamed_Ehab"><img src="https://api.daily.dev/devcards/ed49ae7194bc40a298676373c974b702.png?r=jai" width="400" alt="Programming-School's Dev Card"/></a>
+<a href="https://app.daily.dev/Mohamed_Ehab"><img src="https://api.daily.dev/devcards/ed49ae7194bc40a298676373c974b702.png?r=jai" width="400" align="right" alt="Programming-School's Dev Card"/></a>
 
 
 ## 🙋‍♂️ About Me
