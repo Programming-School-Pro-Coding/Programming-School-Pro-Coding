@@ -93,3 +93,9 @@
 ### :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Programming-School-Pro-Coding&layout=compact&theme=algolia" alt="Mohammed Ehab" /></a> </p>
+	
+
+	
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
