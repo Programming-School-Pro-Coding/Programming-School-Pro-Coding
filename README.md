@@ -6,8 +6,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mohamed</h1>
 <h3 align="center">I'm a passionate Full Stack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Programming-School-Pro-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="Programming-School-Pro-Coding" />
-		   <img src="https://badges.pufler.dev/repos/Programming-School-Pro-Coding" alt="Programming-School-Pro-Coding" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=programming-school-pro-coding&label=Profile%20views&color=0e75b6&style=flat" alt="programming-school-pro-coding" />
+		   <img src="https://badges.pufler.dev/repos/programming-school-pro-coding" alt="Programming-School-Pro-Coding" />
 <!-- 		   <img src="https://img.shields.io/github/followers/Programming-School-Pro-Coding?label=Followers" alt="Programming-School-Pro-Coding" /> -->
 </p>
 
