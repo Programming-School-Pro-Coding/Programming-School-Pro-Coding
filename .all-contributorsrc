@@ -1,1 +1,14 @@
-
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [],
+  "contributorsPerLine": 7,
+  "projectName": "react-play",
+  "projectOwner": "reactplay",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
