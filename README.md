@@ -8,7 +8,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Programming-School-Pro-Coding&label=Profile%20views&color=0e75b6&style=flat" alt="programming-school-pro-coding" />
 		   <img src="https://badges.pufler.dev/repos/programming-school-pro-coding" alt="Programming-School-Pro-Coding" />
-<!-- 		   <img src="https://img.shields.io/github/followers/Programming-School-Pro-Coding?label=Followers" alt="Programming-School-Pro-Coding" /> -->
+		   <img src="https://img.shields.io/github/followers/Programming-School-Pro-Coding?label=Followers" alt="Programming-School-Pro-Coding" />
+		   <img src="https://badges.pufler.dev/gists/Programming-School-Pro-Coding" alt="Gists" />
 </p>
 
 <!-- <img src="standard (1).gif" align="right" width="400"/> -->
@@ -93,7 +94,9 @@
 ### :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Programming-School-Pro-Coding&layout=compact&theme=algolia" alt="Mohammed Ehab" /></a> </p>
-	
+
+# Contributers of [React Play Repository](https://github.com/reactplay/react-play)
+<img src="[https://badges.pufler.dev/contributors/reactplay/react-play?size=26&padding=10&bots=true](https://badges.pufler.dev/contributors/reactplay/react-play?size=100&padding=10&bots=true)" />
 
 	
 # Blog posts
