@@ -114,6 +114,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/onlineWebTutorials"><img src="https://avatars.githubusercontent.com/u/96112266?v=4?s=100" width="100px;" alt=""/><br /><sub><b>onlineWebTutorials</b></sub></a><br /><a href="https://github.com/Programming-School-Pro-Coding/Programming-School-Pro-Coding/commits?author=onlineWebTutorials" title="Code">💻</a></td>
+  </tr>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
