@@ -4,10 +4,20 @@
   ],
   "imageSize": 100,
   "commit": false,
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "onlineWebTutorials",
+      "name": "onlineWebTutorials",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96112266?v=4",
+      "profile": "https://github.com/onlineWebTutorials",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
-  "projectName": "react-play",
-  "projectOwner": "reactplay",
+  "projectName": "Programming-School-Pro-Coding",
+  "projectOwner": "Programming-School-Pro-Coding",
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true
