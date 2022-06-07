@@ -120,11 +120,11 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#283](https://github.com/reactplay/react-play/issues/283) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. ❗️ Opened issue [#7](https://github.com/varunsridharan/action-hashnode-blog/issues/7) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-3. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-4. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-5. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+1. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#283](https://github.com/reactplay/react-play/issues/283) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
