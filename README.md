@@ -110,6 +110,11 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+2. ❗️ Opened issue [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+3. 💪 Opened PR [#11](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/11) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+4. 🗣 Commented on [#12](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/12) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+5. 💪 Opened PR [#12](https://github.com/opensourcecommunity-hub/developer-portfolios/pull/12) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
