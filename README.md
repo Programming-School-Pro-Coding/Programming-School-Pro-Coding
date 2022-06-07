@@ -124,7 +124,7 @@
 2. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
 3. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#283](https://github.com/reactplay/react-play/issues/283) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
