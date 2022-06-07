@@ -120,11 +120,11 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+1. ❗️ Opened issue [#7](https://github.com/varunsridharan/action-hashnode-blog/issues/7) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
 2. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
 3. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-4. ❗️ Opened issue [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-5. 💪 Opened PR [#11](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/pull/11) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
+4. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+5. 🗣 Commented on [#6](https://github.com/varunsridharan/action-hashnode-blog/issues/6) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
