@@ -28,8 +28,11 @@
 
 - :nerd_face: Always `learning new things`
 
-# Open Source Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&theme=dracula&hide_border=true)
+
+
+
+
+
 
 ## 🚀 Languages and Tools:
 
@@ -101,6 +104,8 @@
 # Contributers of [React Play Repository](https://github.com/reactplay/react-play)
 <img src="[https://badges.pufler.dev/contributors/reactplay/react-play?size=26&padding=10&bots=true](https://badges.pufler.dev/contributors/reactplay/react-play?size=100&padding=10&bots=true)" />
 
+# Open Source Graph
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&theme=dracula&hide_border=true)
 	
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
