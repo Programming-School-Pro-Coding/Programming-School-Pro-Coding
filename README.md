@@ -115,6 +115,10 @@
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 	
+# Activity
+<!--START_SECTION:activity--> 
+<!--END_SECTION:activity-->
+	
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
