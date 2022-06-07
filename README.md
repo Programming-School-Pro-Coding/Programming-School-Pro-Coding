@@ -120,10 +120,10 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#296](https://github.com/reactplay/react-play/issues/296) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-3. 🗣 Commented on [#296](https://github.com/reactplay/react-play/issues/296) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#296](https://github.com/reactplay/react-play/issues/296) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+4. 🗣 Commented on [#296](https://github.com/reactplay/react-play/issues/296) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. 🗣 Commented on [#13](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/13) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
