@@ -120,10 +120,10 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#18](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/18) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-2. 🗣 Commented on [#15](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/15) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-3. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
-4. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+1. ❗️ Closed issue [#295](https://github.com/reactplay/react-play/issues/295) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. ❌ Closed PR [#294](https://github.com/reactplay/react-play/pull/294) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. ❗️ Opened issue [#18](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/18) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+4. 🗣 Commented on [#15](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/15) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 5. 🗣 Commented on [#16](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/16) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
 <!--END_SECTION:activity-->
 	
