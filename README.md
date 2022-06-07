@@ -104,7 +104,7 @@
 # Open Source Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&theme=dracula&hide_border=true)
 	
-# My Latest Posts
+## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 	
