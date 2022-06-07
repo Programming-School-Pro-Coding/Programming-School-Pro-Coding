@@ -101,9 +101,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Programming-School-Pro-Coding&layout=compact&theme=algolia" alt="Mohammed Ehab" /></a> </p>
 
-# Contributers of [React Play Repository](https://github.com/reactplay/react-play)
-<img src="[https://badges.pufler.dev/contributors/reactplay/react-play?size=26&padding=10&bots=true](https://badges.pufler.dev/contributors/reactplay/react-play?size=100&padding=10&bots=true)" />
-
 # Open Source Graph
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&theme=dracula&hide_border=true)
 	
