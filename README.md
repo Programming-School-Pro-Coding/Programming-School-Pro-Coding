@@ -108,8 +108,8 @@
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
 	
-# Activity
-<!--START_SECTION:activity--> 
+# Recent Activity
+<!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
