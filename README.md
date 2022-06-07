@@ -106,7 +106,7 @@
 	
 ## My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [Introducing ReactPlay - Learn, Create, Share ReactJS projects](https://programming-school.hashnode.dev//introducing-reactplay-learn-create-share-reactjs-projects)
+- [My Portfolio](https://programming-school.hashnode.dev//my-portfolio)
 - [Create your first React App](https://programming-school.hashnode.dev//create-your-first-react-app)
 - [Top Awesome Background Generators For Your Websites](https://programming-school.hashnode.dev//top-awesome-background-generators-for-your-websites)
 - [The Best Vs Code Extensions For 2022 💪💪](https://programming-school.hashnode.dev//the-best-vs-code-extensions-for-2022)
