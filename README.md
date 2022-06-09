@@ -120,11 +120,11 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#302](https://github.com/reactplay/react-play/issues/302) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#300](https://github.com/reactplay/react-play/issues/300) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#11](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection/issues/11) in [opensourcecommunity-hub/amazing-github-projects-collection](https://github.com/opensourcecommunity-hub/amazing-github-projects-collection)
-5. 🗣 Commented on [#300](https://github.com/reactplay/react-play/issues/300) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#302](https://github.com/reactplay/react-play/issues/302) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 🗣 Commented on [#300](https://github.com/reactplay/react-play/issues/300) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
