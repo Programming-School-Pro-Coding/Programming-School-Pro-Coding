@@ -120,11 +120,11 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/atapas/markdown-cheatsheet/issues/1) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-2. ❌ Closed PR [#300](https://github.com/reactplay/react-play/pull/300) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. ❗️ Opened issue [#8](https://github.com/atapas/markdown-cheatsheet/issues/8) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+2. 🗣 Commented on [#1](https://github.com/atapas/markdown-cheatsheet/issues/1) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+3. ❌ Closed PR [#300](https://github.com/reactplay/react-play/pull/300) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#302](https://github.com/reactplay/react-play/issues/302) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. 🗣 Commented on [#280](https://github.com/reactplay/react-play/issues/280) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
