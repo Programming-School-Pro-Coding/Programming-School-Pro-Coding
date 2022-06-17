@@ -120,11 +120,11 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#267](https://github.com/reactplay/react-play/issues/267) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#283](https://github.com/reactplay/react-play/issues/283) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. ❗️ Opened issue [#8](https://github.com/atapas/markdown-cheatsheet/issues/8) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-4. 🗣 Commented on [#1](https://github.com/atapas/markdown-cheatsheet/issues/1) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-5. ❌ Closed PR [#300](https://github.com/reactplay/react-play/pull/300) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🎉 Merged PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+2. 💪 Opened PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+3. ❗️ Opened issue [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+4. ❗️ Opened issue [#2](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/2) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+5. ❗️ Opened issue [#1](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/1) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
