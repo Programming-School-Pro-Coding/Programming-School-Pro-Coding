@@ -120,11 +120,11 @@
 	
 # Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-2. 💪 Opened PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-3. ❗️ Opened issue [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-4. ❗️ Opened issue [#2](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/2) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-5. ❗️ Opened issue [#1](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/1) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+1. ❗️ Opened issue [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🎉 Merged PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+3. 💪 Opened PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+4. ❗️ Opened issue [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+5. ❗️ Opened issue [#2](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/2) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
