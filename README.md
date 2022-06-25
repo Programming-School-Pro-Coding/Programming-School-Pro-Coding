@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
-2. ❌ Reopened PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
-3. ❌ Closed PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
-4. 💪 Opened PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
-5. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#75](https://github.com/mudit023/templates/issues/75) in [mudit023/templates](https://github.com/mudit023/templates)
+2. 🎉 Merged PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+3. ❌ Reopened PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+4. ❌ Closed PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+5. 💪 Opened PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
