@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. ❗️ Opened issue [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🎉 Merged PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-4. 💪 Opened PR [#5](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/5) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-5. ❗️ Opened issue [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+1. 🎉 Merged PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+2. ❌ Reopened PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+3. ❌ Closed PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+4. 💪 Opened PR [#1](https://github.com/Programming-School-Pro-Coding/react-play/pull/1) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+5. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
