@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/utpalsinghjadon/signupform/pull/1) in [utpalsinghjadon/signupform](https://github.com/utpalsinghjadon/signupform)
-2. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. 🎉 Merged PR [#3](https://github.com/Programming-School-Pro-Coding/react-play/pull/3) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
-4. 💪 Opened PR [#3](https://github.com/Programming-School-Pro-Coding/react-play/pull/3) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
-5. 🗣 Commented on [#217](https://github.com/reactplay/react-play/issues/217) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 💪 Opened PR [#1](https://github.com/utpalsinghjadon/signupform/pull/1) in [utpalsinghjadon/signupform](https://github.com/utpalsinghjadon/signupform)
+3. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 🎉 Merged PR [#3](https://github.com/Programming-School-Pro-Coding/react-play/pull/3) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
+5. 💪 Opened PR [#3](https://github.com/Programming-School-Pro-Coding/react-play/pull/3) in [Programming-School-Pro-Coding/react-play](https://github.com/Programming-School-Pro-Coding/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
