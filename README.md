@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#364](https://github.com/reactplay/react-play/issues/364) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 💪 Opened PR [#364](https://github.com/reactplay/react-play/pull/364) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. ❗️ Opened issue [#363](https://github.com/reactplay/react-play/issues/363) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
-5. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+2. 🗣 Commented on [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+3. 🗣 Commented on [#364](https://github.com/reactplay/react-play/issues/364) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. 💪 Opened PR [#364](https://github.com/reactplay/react-play/pull/364) in [reactplay/react-play](https://github.com/reactplay/react-play)
+5. ❗️ Opened issue [#363](https://github.com/reactplay/react-play/issues/363) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
