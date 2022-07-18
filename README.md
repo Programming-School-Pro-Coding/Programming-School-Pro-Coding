@@ -118,9 +118,9 @@
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
-2. 🗣 Commented on [#7](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/7) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-3. 🗣 Commented on [#9](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/9) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-4. 🗣 Commented on [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+2. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#7](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/7) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+4. 🗣 Commented on [#9](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/9) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
 5. 🗣 Commented on [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
 <!--END_SECTION:activity-->
 	
