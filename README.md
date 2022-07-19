@@ -117,7 +117,7 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🎉 Merged PR [#1](https://github.com/Programming-School-Pro/Developer-Portfolio/pull/1) in [Programming-School-Pro/Developer-Portfolio](https://github.com/Programming-School-Pro/Developer-Portfolio)
 2. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
 3. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
