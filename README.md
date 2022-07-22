@@ -117,10 +117,10 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#48](https://github.com/mudit023/templates/issues/48) in [mudit023/templates](https://github.com/mudit023/templates)
-2. ❗️ Opened issue [#76](https://github.com/mudit023/templates/issues/76) in [mudit023/templates](https://github.com/mudit023/templates)
-3. 🎉 Merged PR [#1](https://github.com/Programming-School-Pro/Developer-Portfolio/pull/1) in [Programming-School-Pro/Developer-Portfolio](https://github.com/Programming-School-Pro/Developer-Portfolio)
-4. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#7](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/7) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+2. 🗣 Commented on [#48](https://github.com/mudit023/templates/issues/48) in [mudit023/templates](https://github.com/mudit023/templates)
+3. ❗️ Opened issue [#76](https://github.com/mudit023/templates/issues/76) in [mudit023/templates](https://github.com/mudit023/templates)
+4. 🎉 Merged PR [#1](https://github.com/Programming-School-Pro/Developer-Portfolio/pull/1) in [Programming-School-Pro/Developer-Portfolio](https://github.com/Programming-School-Pro/Developer-Portfolio)
 5. 🗣 Commented on [#374](https://github.com/reactplay/react-play/issues/374) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
