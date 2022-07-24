@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Programming-School-Pro-Coding/Tiktik/issues/2) in [Programming-School-Pro-Coding/Tiktik](https://github.com/Programming-School-Pro-Coding/Tiktik)
-2. ❗️ Opened issue [#1](https://github.com/Programming-School-Pro-Coding/Tiktik/issues/1) in [Programming-School-Pro-Coding/Tiktik](https://github.com/Programming-School-Pro-Coding/Tiktik)
-3. 🗣 Commented on [#7](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/7) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-4. 🗣 Commented on [#48](https://github.com/mudit023/templates/issues/48) in [mudit023/templates](https://github.com/mudit023/templates)
-5. ❗️ Opened issue [#76](https://github.com/mudit023/templates/issues/76) in [mudit023/templates](https://github.com/mudit023/templates)
+1. ❗️ Opened issue [#4](https://github.com/Tiktik-Community/Tiktik/issues/4) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
+2. ❗️ Opened issue [#2](https://github.com/Programming-School-Pro-Coding/Tiktik/issues/2) in [Programming-School-Pro-Coding/Tiktik](https://github.com/Programming-School-Pro-Coding/Tiktik)
+3. ❗️ Opened issue [#1](https://github.com/Programming-School-Pro-Coding/Tiktik/issues/1) in [Programming-School-Pro-Coding/Tiktik](https://github.com/Programming-School-Pro-Coding/Tiktik)
+4. 🗣 Commented on [#7](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/7) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+5. 🗣 Commented on [#48](https://github.com/mudit023/templates/issues/48) in [mudit023/templates](https://github.com/mudit023/templates)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
