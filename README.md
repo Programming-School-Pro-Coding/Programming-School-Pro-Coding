@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Tiktik-Community/Tiktik/pull/5) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-2. 💪 Opened PR [#5](https://github.com/Tiktik-Community/Tiktik/pull/5) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-3. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. ❗️ Opened issue [#4](https://github.com/Tiktik-Community/Tiktik/issues/4) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-5. ❗️ Opened issue [#2](https://github.com/Programming-School-Pro-Coding/Tiktik/issues/2) in [Programming-School-Pro-Coding/Tiktik](https://github.com/Programming-School-Pro-Coding/Tiktik)
+1. 🎉 Merged PR [#6](https://github.com/Tiktik-Community/Tiktik/pull/6) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
+2. 💪 Opened PR [#6](https://github.com/Tiktik-Community/Tiktik/pull/6) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
+3. 🎉 Merged PR [#5](https://github.com/Tiktik-Community/Tiktik/pull/5) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
+4. 💪 Opened PR [#5](https://github.com/Tiktik-Community/Tiktik/pull/5) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
+5. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
