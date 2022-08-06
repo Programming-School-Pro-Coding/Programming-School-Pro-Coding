@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Tiktik-Community/Tiktik/pull/6) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-2. 💪 Opened PR [#6](https://github.com/Tiktik-Community/Tiktik/pull/6) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-3. 🎉 Merged PR [#5](https://github.com/Tiktik-Community/Tiktik/pull/5) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-4. 💪 Opened PR [#5](https://github.com/Tiktik-Community/Tiktik/pull/5) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-5. 🗣 Commented on [#336](https://github.com/reactplay/react-play/issues/336) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#24](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/24) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+2. ❗️ Closed issue [#18](https://github.com/opensourcecommunity-hub/developer-portfolios/issues/18) in [opensourcecommunity-hub/developer-portfolios](https://github.com/opensourcecommunity-hub/developer-portfolios)
+3. 🎉 Merged PR [#6](https://github.com/Tiktik-Community/Tiktik/pull/6) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
+4. 💪 Opened PR [#6](https://github.com/Tiktik-Community/Tiktik/pull/6) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
+5. 🎉 Merged PR [#5](https://github.com/Tiktik-Community/Tiktik/pull/5) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
