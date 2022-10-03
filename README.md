@@ -117,11 +117,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/atapas/markdown-cheatsheet/issues/1) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
-2. ❗️ Closed issue [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-3. 🎉 Merged PR [#7](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/7) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
-4. 🎉 Merged PR [#7](https://github.com/Tiktik-Community/Tiktik/pull/7) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
-5. ❗️ Opened issue [#517](https://github.com/reactplay/react-play/issues/517) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#82](https://github.com/mudit023/templates/issues/82) in [mudit023/templates](https://github.com/mudit023/templates)
+2. 🗣 Commented on [#1](https://github.com/atapas/markdown-cheatsheet/issues/1) in [atapas/markdown-cheatsheet](https://github.com/atapas/markdown-cheatsheet)
+3. ❗️ Closed issue [#3](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/3) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+4. 🎉 Merged PR [#7](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/pull/7) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+5. 🎉 Merged PR [#7](https://github.com/Tiktik-Community/Tiktik/pull/7) in [Tiktik-Community/Tiktik](https://github.com/Tiktik-Community/Tiktik)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
