@@ -117,8 +117,8 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/mudit023/templates/issues/94) in [mudit023/templates](https://github.com/mudit023/templates)
-2. 🗣 Commented on [#92](https://github.com/mudit023/templates/issues/92) in [mudit023/templates](https://github.com/mudit023/templates)
+1. 💪 Opened PR [#103](https://github.com/mudit023/templates/pull/103) in [mudit023/templates](https://github.com/mudit023/templates)
+2. 🗣 Commented on [#94](https://github.com/mudit023/templates/issues/94) in [mudit023/templates](https://github.com/mudit023/templates)
 3. 🗣 Commented on [#92](https://github.com/mudit023/templates/issues/92) in [mudit023/templates](https://github.com/mudit023/templates)
 4. 🗣 Commented on [#92](https://github.com/mudit023/templates/issues/92) in [mudit023/templates](https://github.com/mudit023/templates)
 5. 🗣 Commented on [#92](https://github.com/mudit023/templates/issues/92) in [mudit023/templates](https://github.com/mudit023/templates)
