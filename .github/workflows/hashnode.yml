@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'Programing-School' # Hashnode Username
+          USERNAME: 'Programming-School' # Hashnode Username
           BLOG_URL: 'https://programming-school.hashnode.dev/' # Blog URL
           COUNT: 10 # MAX Visisble
         env:
