@@ -102,7 +102,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Programming-School-Pro-Coding&layout=compact&theme=algolia" alt="Mohammed Ehab" /></a> </p>
 	
 ## My Latest Blog Posts 👇
-<!-- HASHNODE_BLOG:START -->
+<!-- BLOGPOSTS:START -->
 - [My Portfolio](https://programming-school.hashnode.dev//my-portfolio)
 - [Create your first React App](https://programming-school.hashnode.dev//create-your-first-react-app)
 - [Top Awesome Background Generators For Your Websites](https://programming-school.hashnode.dev//top-awesome-background-generators-for-your-websites)
@@ -113,7 +113,7 @@
 - [Useful Git Commands](https://programming-school.hashnode.dev//useful-git-commands)
 - [How to use typescript in React ?](https://programming-school.hashnode.dev//how-to-use-typescript-in-react)
 - [What's New in Visual Studio 2022](https://programming-school.hashnode.dev//whats-new-in-visual-studio-2022)
-<!-- HASHNODE_BLOG:END -->
+<!-- BLOGPOSTS:END -->
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
