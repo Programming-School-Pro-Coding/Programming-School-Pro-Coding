@@ -111,11 +111,11 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
-2. ❗️ Closed issue [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
-3. 🗣 Commented on [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
+1. 🗣 Commented on [#6](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game/issues/6) in [Programming-School-Pro-Coding/Color-Guess-Game](https://github.com/Programming-School-Pro-Coding/Color-Guess-Game)
+2. 🗣 Commented on [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
+3. ❗️ Closed issue [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
 4. 🗣 Commented on [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
-5. ❗️ Opened issue [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
+5. 🗣 Commented on [#4061](https://github.com/nodejs/help/issues/4061) in [nodejs/help](https://github.com/nodejs/help)
 <!--END_SECTION:activity-->
 	
 ## Contributors ✨
