@@ -22,7 +22,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mohamed-ehab-portfolio.vercel.app)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mohammedehab.vercel.app)**
 
 - 📫 How to reach me **[Socials And Blogs](https://linktr.ee/Programming_School)**
 
