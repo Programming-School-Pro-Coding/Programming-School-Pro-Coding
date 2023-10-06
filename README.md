@@ -113,8 +113,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
 2. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
-3. ❗️ Opened issue [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
-4. 🗣 Commented on [#1258](https://github.com/reactplay/react-play/issues/1258) in [reactplay/react-play](https://github.com/reactplay/react-play)
+3. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
+4. ❗️ Opened issue [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
 5. 🗣 Commented on [#1258](https://github.com/reactplay/react-play/issues/1258) in [reactplay/react-play](https://github.com/reactplay/react-play)
 <!--END_SECTION:activity-->
 	
