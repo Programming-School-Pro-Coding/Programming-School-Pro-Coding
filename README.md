@@ -106,8 +106,8 @@
  - 💫 [Learning numpy The best library to analyze your data part 1](https://programming-school.hashnode.dev/learning-numpy-the-best-library-to-analyze-your-data-part-1)
  - 🚀 [What is ChatGPT ?](https://programming-school.hashnode.dev/what-is-chatgpt)
  - 🔥 [Compare between Rix and ChatGPT](https://programming-school.hashnode.dev/compare-between-rix-and-chatgpt)
- - 💫 [My Portfolio](https://programming-school.hashnode.dev/my-portfolio)
- - 🌮 [Create your first React App](https://programming-school.hashnode.dev/create-your-first-react-app)<!-- BLOGPOSTS:END -->
+ - 💫 [Create your first React App](https://programming-school.hashnode.dev/create-your-first-react-app)
+ - 🌮 [Top Awesome Background Generators For Your Websites](https://programming-school.hashnode.dev/top-awesome-background-generators-for-your-websites)<!-- BLOGPOSTS:END -->
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
