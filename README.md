@@ -103,11 +103,11 @@
 	
 ## My Latest Blog Posts 👇
 <!-- BLOGPOSTS:START -->
- - 💫 [Best 9 Visual Studio Code Extensions](https://programming-school.hashnode.dev/best-9-visual-studio-code-extensions)
- - 🚀 [Learning numpy The best library to analyze your data](https://programming-school.hashnode.dev/learning-numpy-the-best-library-to-analyze-your-data)
- - 🔥 [What is ChatGPT ?](https://programming-school.hashnode.dev/what-is-chatgpt)
- - 💫 [Compare between Rix and ChatGPT](https://programming-school.hashnode.dev/compare-between-rix-and-chatgpt)
- - 🌮 [Create your first React App](https://programming-school.hashnode.dev/create-your-first-react-app)<!-- BLOGPOSTS:END -->
+ - 💫 [Full Stack Framework for Next JS Setup](https://programming-school.hashnode.dev/full-stack-framework-for-next-js-setup)
+ - 🚀 [Best 9 Visual Studio Code Extensions](https://programming-school.hashnode.dev/best-9-visual-studio-code-extensions)
+ - 🔥 [Learning numpy The best library to analyze your data](https://programming-school.hashnode.dev/learning-numpy-the-best-library-to-analyze-your-data)
+ - 💫 [What is ChatGPT ?](https://programming-school.hashnode.dev/what-is-chatgpt)
+ - 🌮 [Compare between Rix and ChatGPT](https://programming-school.hashnode.dev/compare-between-rix-and-chatgpt)<!-- BLOGPOSTS:END -->
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
