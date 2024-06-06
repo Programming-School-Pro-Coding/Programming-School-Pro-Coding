@@ -111,7 +111,7 @@
 	
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1257](https://github.com/reactplay/react-play/issues/1257) in [reactplay/react-play](https://github.com/reactplay/react-play)
+1. 🗣 Commented on [#1493](https://github.com/reactplay/react-play/issues/1493) in [reactplay/react-play](https://github.com/reactplay/react-play)
 2. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
 3. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
 4. 🗣 Commented on [#1295](https://github.com/reactplay/react-play/issues/1295) in [reactplay/react-play](https://github.com/reactplay/react-play)
