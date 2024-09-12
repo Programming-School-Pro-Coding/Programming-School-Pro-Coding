@@ -69,7 +69,7 @@
 
   <br/>
     <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Mohamed Ehab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Programming-School-Pro-Coding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-School-Pro-Coding&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <!--- <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Programming-School-Pro-Coding&langs_count=4&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> -->
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-<a href="https://mohamed-ehab-portfolio.vercel.app"  target="_blank"><img alt="Programming-School-Pro-Coding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://mohammedehab.vercel.app"  target="_blank"><img alt="Programming-School-Pro-Coding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Programming-School-Pro-Coding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -87,8 +87,8 @@
 
 <a href = "https://www.linkedin.com/in/mohamed-ehab-164193208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Programing_Pro"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mohamed_ehab_pro/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "http://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<!-- <a href = "https://www.instagram.com/mohamed_ehab_pro/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "http://www.youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>  -->
 
 </p>
 
