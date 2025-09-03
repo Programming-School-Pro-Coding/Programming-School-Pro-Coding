@@ -37,35 +37,28 @@
 
 <br/>
 
-## 📊 My Github Stats
+## 📊 Github Stats
 
   <br/>
     <a href="https://mohammedehab.vercel.app" target="_blank"><img alt="Mohamed Ehab's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MOHAMED-EHAB-DEV&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <!--
+  
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 <br/>
 <br/>
 
-<a href="https://mohammedehab.vercel.app"  target="_blank"><img alt="MOHAMED-EHAB-DEV's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MOHAMED-EHAB-DEV&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<a href="https://mohammedehab.vercel.app"  target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MOHAMED-EHAB-DEV&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  /></a>
 
 <br/>
 <br/>
 
 ## Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50px" />:
 <p align="left">
-
 <a href = "https://www.linkedin.com/in/mohamed-ehab-164193208"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/Programing_Pro"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
 </p>
-
-## ❤ Views and Followers
-<a href="https://twitter.com/Programing_Pro">![Twitter Follow](https://img.shields.io/twitter/follow/Programing_Pro?label=Follow%20Me&style=for-the-badge)</a>
-<a href="https://github.com/Programming-School-Pro-Coding?tab=followers"><img src="https://img.shields.io/github/followers/MOHAMED-EHAB-DEV?label=Followers&style=for-the-badge" alt="GitHub Badge"></a>
-<a href="https://youtube.com/channel/UC1YTVmV31RZV2oie1kKpJkw"><img src="https://img.shields.io/youtube/channel/views/UC1YTVmV31RZV2oie1kKpJkw?color=%23333333&label=Programming%20School&style=for-the-badge" /></a>
 
 ## :trophy: Git profile Trophies
 
